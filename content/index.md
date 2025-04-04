@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Notas JP
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Por terminar de arreglar, solo están momentáneamente las notas de calc.
